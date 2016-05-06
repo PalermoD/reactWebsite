@@ -2,6 +2,8 @@
   "name": "Palermo",
   "version": "0.0.1",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "react": "^15.0.2",
+    "webpack": "^1.13.0"
   }
 }
